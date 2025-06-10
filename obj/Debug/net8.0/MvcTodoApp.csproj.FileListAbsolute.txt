@@ -29,3 +29,4 @@ C:\Users\planet\Desktop\MvcTodoApp_SV\obj\Debug\net8.0\refint\MvcTodoApp.dll
 C:\Users\planet\Desktop\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.pdb
 C:\Users\planet\Desktop\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.genruntimeconfig.cache
 C:\Users\planet\Desktop\MvcTodoApp_SV\obj\Debug\net8.0\ref\MvcTodoApp.dll
+C:\Users\planet\Desktop\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.sourcelink.json
